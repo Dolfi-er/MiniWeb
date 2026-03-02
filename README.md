@@ -9,7 +9,7 @@
 ### Запуск
 
 #### Клонирование репозитория
-- git clone [<repository-url>](https://github.com/Dolfi-er/MiniWeb.git)
+- git clone https://github.com/Dolfi-er/MiniWeb.git
 - cd MiniWeb
 
 #### Сборка и запуск
